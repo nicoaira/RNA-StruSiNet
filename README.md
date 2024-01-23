@@ -18,6 +18,7 @@ ___
 
 Here are the results of our preliminary test with the structures of RNAses P from bpRNA-1m(90) dataset
 
-![reuslts](https://github.com/nicoaira/RNA-StruSiNet/assets/59507281/a1069832-a3e3-43ac-a67b-fddee479cd03)
+![fig01A](https://github.com/nicoaira/RNA-StruSiNet/assets/59507281/45444ed1-961a-450c-b386-812a793903ba)
+
 
 In this test, we made pairwise comparison between RNAses P (either from the RFam class or different classes) and between random sequences (with the same lenght and GC% content as the RNAses P dataset.
