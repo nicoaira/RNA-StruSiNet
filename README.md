@@ -1,9 +1,9 @@
-# RNA-StruSiNet
+RNA-StruSiNet
 ======
 
 A Siamese Deep Neural Network to assess the similarity between RNA secondary structures
 
-======
+___
 
 ![siamese2](https://github.com/nicoaira/RNA-StruSiNet/assets/59507281/c1c30984-24f3-4ff0-8f80-24f8c0853020)
 
@@ -12,7 +12,7 @@ Then, the output vector of two or more RNA secondary structures can be compared 
 
 This is an alignment-free aproach, which overcomes many of the difficulties of the alignment-based methods, which are usually computationally expensive.
 
-------
+___
 
 ## First example
 
